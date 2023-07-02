@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm computer science student who look to broaden my knowledge.<br>One of my major interest is machine learning and AI.<br>
+I'm computer science student who looks to excel knowledge.<br>One of my major interests is machine learning and AI.<br>
 
 
 ## 🌐 Socials:
