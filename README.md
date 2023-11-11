@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm computer science student who looks to excel knowledge.<br>One of my major interests is machine learning and AI.<br>
+I am a dedicated computer science student driven by a passion for continuous learning and innovation. My academic journey revolves around the dynamic realm of technology, with a particular focus on machine learning and artificial intelligence. I am enthusiastic about exploring the limitless possibilities these fields offer and am committed to pushing the boundaries of my knowledge. Eager to contribute to the ever-evolving landscape of technology, I am constantly seeking new challenges to enhance my skills and make meaningful contributions to the world of computer science.
 
 
 # 💻 Tech Stack:
