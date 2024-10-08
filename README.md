@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated computer science student driven by a passion for continuous learning and innovation. My academic journey revolves around the dynamic realm of technology, with a particular focus on machine learning and artificial intelligence. I am enthusiastic about exploring the limitless possibilities these fields offer and I am committed to pushing the boundaries of my knowledge. Eager to contribute to the ever-evolving landscape of technology, I am constantly seeking new challenges to enhance my skills and make meaningful contributions to the world of computer science. And I use vim btw.
+I’m a computer science student with a real passion for learning and exploring new ideas. My main interests lie in backend development and artificial intelligence fields. I’m always looking to deepen my understanding and push my own boundaries, whether it’s through hands-on projects or diving into new challenges. I'm excited about contributing to the tech world as it evolves and finding ways to make an impact along the way. Oh, and I use Vim btw.
 
 
 # 💻 Tech Stack:
