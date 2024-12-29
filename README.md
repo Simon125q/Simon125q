@@ -11,10 +11,13 @@ I’m a computer science student with a real passion for learning and exploring 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### If you want you can checkout my profile on daily.dev where I post interesting things I have found lately
+<a href="https://app.daily.dev/simon125q"><img src="https://api.daily.dev/devcards/v2/g4ZJecDKXrCh6bYVK1iyV.png?type=wide&r=z84" width="652" alt="Szymon Omieciński's Dev Card"/></a>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/szymon-omiecinski/) <br/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Simon125q&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
